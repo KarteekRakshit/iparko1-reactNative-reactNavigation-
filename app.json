@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name":"iParko",
+    "description":"India's Parking System",
+    "version":"1.1.0",
+    "slug":"iparko",
+    "android":{
+      "package":"com.karteek263.iparko",
+      "permissions":[
+        ""
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCp-BUoX8B8699rkbnb2P2CK4gXSeesVcc"
+        }
+      }
+    }
+  }
+}
